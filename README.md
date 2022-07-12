@@ -21,7 +21,13 @@ Activity 1 // Cybersecurity Audit Practical
 - (Pull up the last security fix and related CVE for both Windows and Apple: https://support.apple.com/en-us/HT201222,       https://portal.msrc.microsoft.com/en-us/security-guidance). Write the CVE down and find its description via Google.
 - What can an attacker do with this information? 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-Activity 2 // Website Vulnerability Practical
+Activity 2 // Discussion
+Read this excerpt from https://www.heritage.org/military-strength-essays/2015-essays/what-national-security#:~:text=Non%2DMilitary%20Ideas%20of%20National%20Security (PLEASE STOP AT "FOCUSING THE IDEA OF NATIONAL SECURITY) 
+
+Read this blog post: https://www.cybereason.com/blog/cybersecurity-is-national-security
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Activity 3 // Website Vulnerability Practical
 
 Hackthissite.org -> basic challenge 1 & 3 walkthrough. Go to the “inspect element” on the challenge.
 Challenge: https://www.hackthissite.org/missions/realistic/3/
